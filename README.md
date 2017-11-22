@@ -1,1 +1,1 @@
-# cordova-plugin-ironsource-ads-mediation-topjoy-adapter
+# cordova-plugin-ironsource-ads-mediation-tapjoy-adapter
